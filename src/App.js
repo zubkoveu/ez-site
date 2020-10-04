@@ -84,8 +84,7 @@ function App() {
                           color="inherit"
                           gutterBottom  
                         >
-                          Зубков Евгений Юрьевич 
-                          Web Developer 
+                          Web Developer
                          </Typography> 
                         <Typography
                           component="h5"
